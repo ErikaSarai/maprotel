@@ -15316,7 +15316,7 @@ html.rd-navbar-fixed-linked .page-header {
 	left: 0;
 	height: 3px;
 	width: 29px;
-	transition: none;
+	transition: 50s ease-in-out left;
 	opacity: 1;
 }
 
