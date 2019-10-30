@@ -20230,3 +20230,13 @@ disabled look for disabled choices in the results dropdown
 .modal-body {
 	padding: 29px 30px 35px;
 }
+
+/* Scroll */
+.scroll::-webkit-scrollbar {
+	width: 9px;
+  }
+  
+  .scroll::-webkit-scrollbar-thumb {
+	background: #6689ff;
+	border-radius: 4px;
+  }
